@@ -1,0 +1,48 @@
+[
+    {
+        "website-name": "Mediamarkt",
+        "mode": "class-exists",
+        "class": ".price-sidebar",
+        "products": [
+            {"product-name": "PlayStation 5 Standart", "url": "https://www.mediamarkt.com.tr/tr/product/_sony-playstation-5-dijital-s%C3%BCr%C3%BCm-konsol-1213866.html"},
+            {"product-name": "PlayStation 5 Digital Edition", "url": "https://www.mediamarkt.com.tr/tr/product/_sony-playstation-5-dijital-s%C3%BCr%C3%BCm-konsol-1213866.html"}
+        ]
+    },
+    {
+        "website-name": "Vatan Bilgisayar",
+        "mode": "class-exists",
+        "class": ".basketBTN",
+        "products": [
+            {"product-name": "PlayStation 5 Standart", "url": "https://www.vatanbilgisayar.com/sony-playstation-5-oyun-konsolu.html"},
+            {"product-name": "PlayStation 5 Digital Edition", "url": "https://www.vatanbilgisayar.com/sony-playstation-5-digital-surum-oyun-konsolu.html"}
+        ]
+    },
+    {
+        "website-name": "D&R",
+        "mode": "status-code",
+        "target-status-code": 200,
+        "products": [
+            {"product-name": "PlayStation 5 Standart", "url": "https://www.dr.com.tr/Oyun-Konsol/Sony-PlayStation5-Oyun-Konsolu/Oyun-Konsollari/Tasinabilir-Oyun-Konsollari/urunno=0001892524001"},
+            {"product-name": "PlayStation 5 Digital Edition", "url": "https://www.dr.com.tr/Oyun-Konsol/Sony-PlayStation5-Dijital-Konsol/Oyun-Konsollari/Tasinabilir-Oyun-Konsollari/urunno=0001904149001"}
+        ]
+    },
+    {
+        "website-name": "Teknosa",
+        "mode": "status-code",
+        "target-status-code": 200,
+        "products": [
+            {"product-name": "PlayStation 5 Standart", "url": "https://www.teknosa.com/sony-ps5-playstation-5-oyun-konsolu-p-125088447"},
+            {"product-name": "PlayStation 5 Digital Edition", "url": "https://www.teknosa.com/playstation-5-dijital-surum-oyun-konsolu-p-125087520"}
+        ]
+    },
+    {
+        "website-name": "Overgame",
+        "mode": "class-exists",
+        "class": ".product_page_buy_btn",
+        "products": [
+            {"product-name": "PlayStation 5 Standart", "url": "https://www.overgameweb.com/urun/playstation-5-konsol-3615"},
+            {"product-name": "PlayStation 5 Digital Edition", "url": "https://www.overgameweb.com/urun/playstation-5-konsol-dijital-surum-4077"}
+        ]
+    }
+    
+]

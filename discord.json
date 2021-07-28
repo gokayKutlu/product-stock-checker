@@ -1,0 +1,20 @@
+{
+    "PlayStation 5 Digital Edition": {
+        "role-name": "PS5 Digital Edition",
+        "role-id": 0,
+        "webhook-token": "WEBHOOK_TOKEN_HERE",
+        "webhook-id": 0
+    },
+    "PlayStation 5 Standart": {
+        "role-name": "PS5 Standart",
+        "role-id": 0,
+        "webhook-token": "WEBHOOK_TOKEN_HERE",
+        "webhook-id": 0
+    },
+    "Error": {
+        "role-name": "Bot Hata",
+        "role-id": 0,
+        "webhook-token": "WEBHOOK_TOKEN_HERE",
+        "webhook-id": 0
+    }
+}
